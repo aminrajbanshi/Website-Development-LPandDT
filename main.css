@@ -1,0 +1,386 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    background: black;
+    margin: 0;
+}
+
+img {
+    max-height: 100%;
+    max-width: 100%;
+    display: block;
+}
+
+p {
+    position: relative;
+    top: -1815px;
+    left: -20px;
+}
+
+#p_2 {
+    position: relative;
+    top: -1885px;
+    left: -560px;
+}
+
+#p_3 {
+    position: relative;
+    top: -1420px;
+    left: -560px;
+}
+
+#p_4 {
+    position: relative;
+    top: -1560px;
+    left: -560px;
+}
+
+#p_5 {
+    position: relative;
+    top: -560px;
+    left: -560px;
+}
+
+#p_6 {
+    position: relative;
+    width: 1250px;
+    top: -1170px;
+    left: 5px;
+}
+
+list_1 {
+    position: relative;
+    
+}
+
+video {
+    position: relative;
+    top: -1200px;
+    left: 360px;
+}
+
+audio {
+    height: 25px;
+    position: relative;
+    top: -1865px;
+    left: 1060px;
+}
+
+#a_2 {
+    position: relative;
+    left: 1060px;
+    top: -1400px;
+}
+
+#a_3 {
+    position: relative;
+    left: 1060px;
+    top: -1540px;
+}
+
+#a_4 {
+    position: relative;
+    left: 1060px;
+    top: -540px;
+}
+
+.container {
+    margin: 0 auto;
+    width: 1366px;
+    height: 768px;
+    object-fit: contain;
+    overflow-y: hidden;
+}
+
+.bg {
+    width: 1366px;
+    height: 768px;
+    object-fit: contain;
+}
+
+
+.box {
+    display: block;
+    width: 500px;
+    height: 333px;
+    position: relative;
+}
+
+.logo {
+    width: 150px;
+    height: 65;
+    position: relative;
+    top: -760px;
+    object-fit: contain;
+}
+
+#static_logo {
+    width: 150px;
+    height: 65;
+    position: relative;
+    top: -770px;
+    object-fit: contain;
+    background: black;
+}
+
+#static_logo:hover {
+    opacity: 0;
+}
+
+#gif_logo {
+    width: 150px;
+    height: 65;
+    position: relative;
+    top: -870px;
+    object-fit: contain;
+    opacity: 0;
+}
+
+#gif_logo:hover {
+    opacity: 100;
+    background: black;
+}
+
+#menu_home {
+    position: relative;
+    width: 100px;
+    height: 45px;
+    top: -940px;
+    left: 1000px;
+}
+
+#menu_home:hover {
+    position: relative;
+    width: 100px;
+    height: 45px;
+    top: -940px;
+    left: 1000px;
+}
+
+#menu_home_gif {
+    position: relative;
+    width: 100px;
+    height: 45px;
+    top: -985px;
+    left: 1000px;
+    opacity: 0;
+}
+
+#menu_home_gif:hover {
+    opacity: 100;
+}
+
+#menu_poems {
+    position: relative;
+    width: 100px;
+    height: 45px;
+    top: -1030px;
+    left: 1090px;
+}
+
+#menu_poems:hover {
+    position: relative;
+    width: 100px;
+    height: 45px;
+    top: -1030px;
+    left: 1090px;
+}
+
+#menu_poems_gif {
+    position: relative;
+    width: 100px;
+    height: 45px;
+    top: -1075px;
+    left: 1090px;
+    opacity: 0;
+}
+
+#menu_poems_gif:hover {
+    opacity: 100;
+}
+
+#menu_about {
+    position: relative;
+    width: 100px;
+    height: 45px;
+    top: -1120px;
+    left: 1180px;
+}
+
+#menu_about:hover {
+    position: relative;
+    width: 100px;
+    height: 45px;
+    top: -1120px;
+    left: 1180px;
+}
+
+#menu_about_gif {
+    position: relative;
+    width: 100px;
+    height: 45px;
+    top: -1165px;
+    left: 1180px;
+    opacity: 0;
+}
+
+#menu_about_gif:hover {
+    opacity: 100;
+}
+
+#title {
+    width: 600px;
+    height: 600px;
+    top: -1200px;
+    left: 360px;
+}
+
+#full_moon {
+    width: 300px;
+    height: 300px;
+    top: -1650px;
+    left: 30px;
+}
+
+#crescent_moon {
+    width: 300px;
+    height: 300px;
+    top: -1950px;
+    left: 1020px;
+}
+
+#arrow_right_button {
+    width: 50px;
+    height: 50px;
+    top: -1775px;
+    left: 650px;
+}
+
+#arrow_right_button_gif {
+    width: 50px;
+    height: 50px;
+    top: -1825px;
+    left: 650px;
+    opacity: 0;
+}
+
+#arrow_right_button_gif:hover {
+    width: 50px;
+    height: 50px;
+    top: -1825px;
+    left: 650px;
+    opacity: 100;
+}
+
+#arrow_right_2_button {
+    width: 50px;
+    height: 50px;
+    top: -1575px;
+    left: 1050px;
+}
+
+#arrow_right_button_2_gif {
+    width: 50px;
+    height: 50px;
+    top: -1625px;
+    left: 1050px;
+    opacity: 0;
+}
+
+#arrow_right_button_2_gif:hover {
+    width: 50px;
+    height: 50px;
+    top: -1625px;
+    left: 1050px;
+    opacity: 100;
+}
+
+#arrow_left_2_button {
+    width: 50px;
+    height: 50px;
+    top: -1675px;
+    left: 215px;
+}
+
+#arrow_left_2_gif {
+    width: 50px;
+    height: 50px;
+    top: -1725px;
+    left: 215px;
+    opacity: 0;
+}
+
+#arrow_left_2_gif:hover {
+    width: 50px;
+    height: 50px;
+    top: -1725px;
+    left: 215px;
+    opacity: 100;
+}
+
+#arrow_left_back_button {
+    width: 50px;
+    height: 50px;
+    top: -2150px;
+    left: 15px;
+}
+
+#arrow_left_back_gif {
+    width: 50px;
+    height: 50px;
+    top: -2200px;
+    left: 15px;
+    opacity: 0;
+}
+
+#arrow_left_back_gif:hover {
+    width: 50px;
+    height: 50px;
+    top: -2200px;
+    left: 15px;
+    opacity: 100;
+}
+
+#poem_1_title {
+    height: 50px;
+    top: -1180px;
+    left: 420px;
+}
+
+#poem_2_title {
+    height: 50px;
+    top: -1180px;
+    left: 550px;
+}
+
+#poem_3_title {
+    height: 50px;
+    top: -1180px;
+    left: 560px;
+}
+
+
+#full_poem_1 {
+    height: 500px;
+    width: 500px;
+    top: -1085px;
+    left: 650px;
+}
+
+#poem_1_image {
+    height: 500px;
+    widows: 500px;
+    top: -1585px;
+    left: 100px;
+}
+
+#book_cover {
+    position: relative;
+    height: 250px;
+    widows: 250px;
+    top: -1300px;
+    left: 750px;
+}
